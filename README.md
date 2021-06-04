@@ -4,19 +4,21 @@
 
 This is my README, which is still a work-in-progress, like most things here on GitHub. I enjoy helping other developers, but have limited time for non-work projects, so I'm currently live-streaming on twitch a few days a month!
 
-Languages: C#, XAML, JavaScript, TypeScript, SQL, HTML, CSS
+**Languages:** C#, XAML, JavaScript, TypeScript, SQL, HTML, CSS
 
-Frameworks: WPF, Xamarin.Forms, ASP.NET [Core], AvaloniaUI, Infragistics, Bootstrap
+**Frameworks:** WPF, Xamarin.Forms, ASP.NET [Core], AvaloniaUI, Infragistics, Bootstrap
 
-Databases: PostgreSQL, SQLite, SQLCipher
+**Databases:** PostgreSQL, SQLite, SQLCipher
 
-Patterns: UnitOfWork-Repository-Service, DbContext
+**Patterns:** UnitOfWork-Repository-Service, DbContext
 
-Architecture: MVVM, REST
+**Architecture:** MVVM, REST
 
-ORM/QueryBuilding: EntityFrameworkCore, SlonikJS
+**ORM/QueryBuilding:** EntityFrameworkCore, SlonikJS
 
-Learning: Unity, Blender, Pixel Art
+**Tools:** Visual Studio 2019, VSCode, 
+
+**Learning:** Unity, Blender, Pixel Art
 
 ![Profile views](https://gpvc.arturio.dev/dmtomczyk)  
 
