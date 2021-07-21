@@ -6,7 +6,7 @@ This is my README, which is still a work-in-progress, like most things here on G
 
 **Languages:** C#, XAML, JavaScript, TypeScript, SQL, HTML, CSS
 
-**Frameworks:** WPF, Xamarin.Forms, ASP.NET [Core], AvaloniaUI, Infragistics, Bootstrap
+**Frameworks:** WPF, Xamarin.Forms, ASP.NET [Core], Bootstrap, Infragistics, AvaloniaUI
 
 **Databases:** PostgreSQL, SQLite, SQLCipher
 
@@ -16,7 +16,7 @@ This is my README, which is still a work-in-progress, like most things here on G
 
 **ORM/QueryBuilding:** EntityFrameworkCore, SlonikJS
 
-**Tools:** Visual Studio 2019, VSCode, 
+**Tools:** Visual Studio 2019, VSCode, Postman, Insomnia, DBeaver, Git CLI
 
 **Learning:** Unity, Blender, Pixel Art
 
