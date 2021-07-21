@@ -2,7 +2,7 @@
 #### Director of Software Development, primarily working within the .NET ecosystem.
 ![I am a Senior Software Developer](https://dmtomczyk.github.io/banner.png)
 
-This is my README, which is still a work-in-progress, like most things here on GitHub. I enjoy helping other developers, but have limited time for non-work projects, so I'm currently live-streaming on twitch a few days a month!
+This is my README, which is still a work-in-progress, like most things here on GitHub. I enjoy helping other developers, but have limited time for non-work projects, ~~so I'm currently live-streaming on twitch a few days a month!~~
 
 **Languages:** C#, XAML, JavaScript, TypeScript, SQL, HTML, CSS
 
