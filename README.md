@@ -18,7 +18,7 @@ This is my README, which is still a work-in-progress, like most things here on G
 
 **Tools:** Visual Studio 2019, VSCode, Postman, Insomnia, DBeaver, Git CLI
 
-**Learning:** Unity, Blender, Pixel Art
+**Learning:** x86ASM, Unity, Blender, Pixel Art
 
 ![Profile views](https://gpvc.arturio.dev/dmtomczyk)  
 
